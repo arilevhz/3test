@@ -9,5 +9,5 @@
   <Variable
     Name="Street"
     Comment=""
-    EvaluatedDefinition="" />
+    EvaluatedDefinition="formosa">formosa</Variable>
 </CatapultVariableSet>
