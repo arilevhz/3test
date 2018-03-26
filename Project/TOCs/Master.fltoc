@@ -19,4 +19,9 @@
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Topic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
+  <TocEntry
+    Title="Book1">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
 </CatapultToc>
