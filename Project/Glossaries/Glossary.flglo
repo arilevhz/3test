@@ -17,4 +17,14 @@
     <Definition
       Link=""></Definition>
   </GlossaryEntry>
+  <GlossaryEntry
+    glossTerm="Glossary.Term2"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>secondterm</Term>
+    </Terms>
+    <Definition
+      Link=""></Definition>
+  </GlossaryEntry>
 </CatapultGlossary>
